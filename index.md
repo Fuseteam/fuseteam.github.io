@@ -1,7 +1,4 @@
 ## Fuseteam the finger binary language loving otaku programmer
-### Support me on
-- [Patreon](https://patreon.com/fuseteam)
-- [Ko-Fi](https://ko-fi.com/fuseteam)
 ### Social Media
 - [FTM Programming Services](https://facebook.com/fuseteamPS)
 - [Sekai Jumper](https://facebook.com/fuseteamSJ)
@@ -11,7 +8,12 @@
 - [Bayi Subs Chat](https://disco.gg/bayisubs)
 - [Bayi Subs Club](http://myanimelist.net/clubs.php?cid=70149)
 - [MAL](https://myanimelist.net/profile/Fuseteam)
-### projects
+
+## Support me on
+- [Patreon](https://patreon.com/fuseteam)
+- [Ko-Fi](https://ko-fi.com/fuseteam)
+
+### Projects
 - [Ronini](http://ronini.ml)
 - [mappy](https://github.com/Fuseteam/mappy)
 - [bayi test site](http://70149.neocities.org)

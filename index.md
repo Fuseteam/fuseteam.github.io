@@ -1,6 +1,6 @@
 ## Fuseteam the finger binary language loving otaku programmer
 ### Support me on
-- [patreon](https://patreon.com/fuseteam)
+- [Patreon](https://patreon.com/fuseteam)
 - [Ko-Fi](https://ko-fi.com/fuseteam)
 ### Social Media
 - [FTM Programming Services](https://facebook.com/fuseteamPS)

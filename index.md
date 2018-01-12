@@ -8,6 +8,7 @@
 - [Bayi Subs Chat](https://disco.gg/bayisubs)
 - [Bayi Subs Club](http://myanimelist.net/clubs.php?cid=70149)
 - [MAL](https://myanimelist.net/profile/Fuseteam)
+- [WowApp](https://www.wowapp.com/w/fuseteam/Tobiyo-Kuujikai)
 
 ### Support me on
 - [Patreon](https://patreon.com/fuseteam)

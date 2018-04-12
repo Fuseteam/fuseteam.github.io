@@ -15,7 +15,7 @@
 - [Ko-Fi](https://ko-fi.com/fuseteam)
 
 ### Projects
-- [Ronini](http://ronini.ml)
+- [Ronini](http://fuseteam.tk)
 - [mappy](https://github.com/Fuseteam/mappy)
 - [bayi test site](http://70149.neocities.org)
 - [bayi subs site](http://bayi-subs.neocities.org)

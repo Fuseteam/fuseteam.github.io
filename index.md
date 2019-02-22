@@ -14,7 +14,7 @@
 - [Anilist Profile](https://anilist.co/user/Fuseteam)
 - [Disqus Profile](https://disqus.com/by/fuseteam/)
 - [WowApp Profile](https://www.wowapp.com/w/fuseteam/Tobiyo-Kuujikai)
-- [Telegram](https://t.me/fuseteam)
+- [Telegram Profile](https://t.me/fuseteam)
 - [@fuseteam:matrix.org](matrix.org)
 ### Support me on
 - [Patreon Page](https://patreon.com/fuseteam)

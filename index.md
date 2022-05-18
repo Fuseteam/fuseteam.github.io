@@ -1,27 +1,46 @@
-# Fuseteam the finger binary language loving otaku programmer
+# Fuseteam the Finger Binary Language Loving Otaku Open Sourcerer
 ## Social Media
 - [Fuse Tech News Facebook Page](https://facebook.com/fuseteamTN)
 - [Sekai Jumper Facebook Page](https://facebook.com/fuseteamSJ)
 - [Public Facebook Profile](https://facebook.com/fuseteam)
 - [Github Profile](https://github.com/Fuseteam)
-- [Gitlab Profile](https://github.com/xiaofuse)
-- [Bitbuckket Profile](https://bitbucket.org/xiaofuse)
+- [Tuxecure Github Organisation](https://github.com/Tuxecure)
+- [Dwnity Github Organisation](https://github.com/Dwnity)
+- [Donghua Network Github Organisation](https://github.com/debclick)
+- [Gitlab Profile](https://gitlab.com/xiaofuse)
+- [Tuxecure Gitlab Group](https://gitlab.com/tuxecure)
+- [Debclick Gitlab Group](https://gitlab.com/debclick)
+- [Bitbucket Profile](https://bitbucket.org/xiaofuse)
+- [Launchpad Page](https://launchpad.net/~fuseteam)
 - [Quora Profile](https://www.quora.com/profile/Rahammetoela-Toekiman)
-- [Twitter PAge](https://twitter.com/xiaofuse)
+- [Twitter Profile](https://twitter.com/xiaofuse)
+- [Tuxecure Twitter Profile](https://twitter.com/tuxecure)
 - [Youtube Channel](https://youtube.com/fuseteam)
-- [Bayi Subs Chat Discord Server](https://discord.gg/PBCCyVn)
-- [Bayi Subs Club](http://myanimelist.net/clubs.php?cid=70149)
 - [MAL Profile](https://myanimelist.net/profile/Fuseteam)
+- [Bayi Subs Club](http://myanimelist.net/clubs.php?cid=70149)
+- [Bayi Subs Chat Discord Server](https://discord.gg/PBCCyVn)
 - [Anilist Profile](https://anilist.co/user/Fuseteam)
+- [Imgur profile](https://imgur.com/user/fuseteam)
+- [UBports forum](https://forums.ubports.com/user/fuseteam)
+- [Snapcraft forum](https://forum.snapcraft.io/u/fuseteam)
+- [Ubuntu Discourse](https://discourse.ubuntu.com/u/fuseteam)
 - [Disqus Profile](https://disqus.com/by/fuseteam/)
 - [WowApp Profile](https://www.wowapp.com/w/fuseteam/Tobiyo-Kuujikai)
 - [Telegram Profile](https://t.me/fuseteam)
 - [@fuseteam:matrix.org](matrix.org)
+
 ### Support me on
 - [Patreon Page](https://patreon.com/fuseteam)
+- [Liberapay Page](https://liberapay.com/fuseteam)
 - [Ko-Fi Page](https://ko-fi.com/fuseteam)
 
-### Projects
+### Active Projects
+- [sshmount](https://github.com/Fuseteam/sshmount)
+- [crackle](https://github.com/tuxecure/crackle)
+- [zip it](https://github.com/tuxecure/zip-it)
+- [gpgman](https://github.com/Fuseteam/gpgman)
+
+### 2017 Projects
 - [Ronini](http://fuseteam.tk)
 - [mappy](https://github.com/Fuseteam/mappy)
 - [bayi test site](http://70149.neocities.org)

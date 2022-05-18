@@ -35,7 +35,7 @@
 - [Liberapay Page](https://liberapay.com/fuseteam)
 - [Ko-Fi Page](https://ko-fi.com/fuseteam)
 
-### Active Projects
+### Recent Projects
 - [sshmount](https://github.com/Fuseteam/sshmount)
 - [crackle](https://github.com/tuxecure/crackle)
 - [zip it](https://github.com/tuxecure/zip-it)

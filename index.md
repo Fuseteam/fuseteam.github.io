@@ -21,6 +21,7 @@
 - [Bayi Subs Chat Discord Server](https://discord.gg/PBCCyVn)
 - [Anilist Profile](https://anilist.co/user/Fuseteam)
 - [Imgur profile](https://imgur.com/user/fuseteam)
+- [Reddit Profile](https://reddit.com/u/fuseteam)
 - [UBports forum](https://forums.ubports.com/user/fuseteam)
 - [Snapcraft forum](https://forum.snapcraft.io/u/fuseteam)
 - [Ubuntu Discourse](https://discourse.ubuntu.com/u/fuseteam)

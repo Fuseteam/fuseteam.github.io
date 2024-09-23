@@ -1,4 +1,4 @@
-# Rahammetoela Toekiman also known as Tobiyo "Fuseteam" Kuujikai, xiaofuse, feishikong, Merkhad Luigton; obsessed with Finger Binary Language, self-proclaimed Otaku and Open Sourcerer
+# Rahammetoela Toekiman also known as Tobiyo "Fuseteam" Kuujikai, xiaofuse, feishikong, Merkhad Luigton; obsessed with Finger Binary and Languages, self-proclaimed Otaku and Open Sourcerer
 ## Social Media
 - [Public Facebook Profile](https://facebook.com/fuseteam)
 - [Github Profile](https://github.com/Fuseteam)

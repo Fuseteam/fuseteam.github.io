@@ -1,21 +1,17 @@
-# Fuseteam the Finger Binary Language Loving Otaku Open Sourcerer
+# Rahammetoela Toekiman also known as Tobiyo "Fuseteam" Kuujikai, xiaofuse, feishikong, Merkhad Luigton; obsessed with Finger Binary Language, self-proclaimed Otaku and Open Sourcerer
 ## Social Media
-- [Fuse Tech News Facebook Page](https://facebook.com/fuseteamTN)
-- [Sekai Jumper Facebook Page](https://facebook.com/fuseteamSJ)
 - [Public Facebook Profile](https://facebook.com/fuseteam)
 - [Github Profile](https://github.com/Fuseteam)
-- [Tuxecure Github Organisation](https://github.com/Tuxecure)
-- [Dwnity Github Organisation](https://github.com/Dwnity)
-- [Donghua Network Github Organisation](https://github.com/debclick)
+- [Fuse Tech News Facebook Page](https://facebook.com/fuseteamTN)
+- [Sekai Jumper Facebook Page](https://facebook.com/fuseteamSJ)
 - [Gitlab Profile](https://gitlab.com/xiaofuse)
-- [Tuxecure Gitlab Group](https://gitlab.com/tuxecure)
-- [Debclick Gitlab Group](https://gitlab.com/debclick)
 - [Bitbucket Profile](https://bitbucket.org/xiaofuse)
 - [Giphy Channel](https://giphy.com/channel/tobiyokuujikai)
 - [Launchpad Page](https://launchpad.net/~fuseteam)
 - [Quora Profile](https://www.quora.com/profile/Rahammetoela-Toekiman)
 - [Twitter Profile](https://twitter.com/xiaofuse)
 - [Tuxecure Twitter Profile](https://twitter.com/tuxecure)
+- [Feishikong Twitter Profile](https://twitter.com/feishikong)
 - [Youtube Channel](https://youtube.com/fuseteam)
 - [TikTok](https://tiktok.com/@feishikong)
 - [MAL Profile](https://myanimelist.net/profile/Fuseteam)
@@ -43,6 +39,17 @@
 - [Liberapay Page](https://liberapay.com/fuseteam)
 - [Ko-Fi Page](https://ko-fi.com/fuseteam)
 
+### Github Organizations
+- [Donghua Network Github Organisation](https://github.com/donghua-network)
+- [Tuxecure](https://github.com/tuxecure)
+- [Feishikong](https://github.com/feishikong)
+- [Dwnity](https://github.com/dwnity)
+- [Online Payments Suriname](https://github.com/online-payments-suriname)
+
+### Gitlab Groups
+- [Tuxecure](https://gitlab.com/tuxecure)
+- [Debclick](https://gitlab.com/debclick)
+- 
 ### Recent Projects
 - [sshmount](https://github.com/Fuseteam/sshmount)
 - [crackle](https://github.com/tuxecure/crackle)

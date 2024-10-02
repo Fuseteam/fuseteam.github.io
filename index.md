@@ -5,6 +5,7 @@
 - [Fuse Tech News Facebook Page](https://facebook.com/fuseteamTN)
 - [Sekai Jumper Facebook Page](https://facebook.com/fuseteamSJ)
 - [Gitlab Profile](https://gitlab.com/xiaofuse)
+- [Stack Exchange Network Profile](https://stackexchange.com/users/6375969/fuseteam)
 - [Bitbucket Profile](https://bitbucket.org/xiaofuse)
 - [Giphy Channel](https://giphy.com/channel/tobiyokuujikai)
 - [Launchpad Page](https://launchpad.net/~fuseteam)
@@ -34,11 +35,6 @@
 - [Telegram Profile](https://t.me/fuseteam)
 - [@fuseteam:matrix.org](matrix.org)
 
-### Support me on
-- [Patreon Page](https://patreon.com/fuseteam)
-- [Liberapay Page](https://liberapay.com/fuseteam)
-- [Ko-Fi Page](https://ko-fi.com/fuseteam)
-
 ### Github Organizations
 - [Donghua Network Github Organisation](https://github.com/donghua-network)
 - [Tuxecure](https://github.com/tuxecure)
@@ -49,7 +45,12 @@
 ### Gitlab Groups
 - [Tuxecure](https://gitlab.com/tuxecure)
 - [Debclick](https://gitlab.com/debclick)
-- 
+
+### Support me on
+- [Patreon Page](https://patreon.com/fuseteam)
+- [Liberapay Page](https://liberapay.com/fuseteam)
+- [Ko-Fi Page](https://ko-fi.com/fuseteam)
+
 ### Recent Projects
 - [sshmount](https://github.com/Fuseteam/sshmount)
 - [crackle](https://github.com/tuxecure/crackle)

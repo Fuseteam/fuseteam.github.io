@@ -134,6 +134,25 @@ a:focus {
   display: none;
 }
 
+.name_section h1 {
+	font-size: 2.25rem;
+	padding: 3rem 4rem;
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.name_section h2 {
+	font-size: 1.15rem;
+	padding: 0 4rem;
+	color: #fff;
+	font-weight: normal
+	text-align: center;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	box-sizing: border-box;
+}
+
 .header_section {
   padding: 15px 0;
 }
@@ -258,7 +277,7 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   position: relative;
-  padding: 45px 0 145px 0;
+  padding: 3rem 4rem;
 }
 
 .slider_section .row {

@@ -2,9 +2,8 @@
 ## Social Media
 - [Public Facebook Profile](https://facebook.com/fuseteam)
 - [Github Profile](https://github.com/Fuseteam)
-- [Fuse Tech News Facebook Page](https://facebook.com/fuseteamTN)
-- [Sekai Jumper Facebook Page](https://facebook.com/fuseteamSJ)
 - [Gitlab Profile](https://gitlab.com/xiaofuse)
+- [SourceForge Profile](https://sourceforge.net/u/fuseteam/profile)
 - [Stack Exchange Network Profile](https://stackexchange.com/users/6375969/fuseteam)
 - [Bitbucket Profile](https://bitbucket.org/xiaofuse)
 - [Giphy Channel](https://giphy.com/channel/tobiyokuujikai)
@@ -14,6 +13,8 @@
 - [Tuxecure Twitter Profile](https://twitter.com/tuxecure)
 - [Feishikong Twitter Profile](https://twitter.com/feishikong)
 - [Youtube Channel](https://youtube.com/fuseteam)
+- [Tuxecure Youtube Channel](https://www.youtube.com/@tuxecure)
+- [Feishikong Youtube Channel](https://www.youtube.com/@feishikong)
 - [TikTok](https://tiktok.com/@feishikong)
 - [MAL Profile](https://myanimelist.net/profile/Fuseteam)
 - [Bayi Subs Club](http://myanimelist.net/clubs.php?cid=70149)
@@ -32,7 +33,7 @@
 - [Ubuntu Discourse Profile](https://discourse.ubuntu.com/u/fuseteam)
 - [Disqus Profile](https://disqus.com/by/fuseteam/)
 - [WowApp Profile](https://www.wowapp.com/w/fuseteam/Tobiyo-Kuujikai)
-- [Telegram Profile](https://t.me/fuseteam)
+- [Telegram](https://t.me/fuseteam)
 - [@fuseteam:matrix.org](matrix.org)
 
 ### Github Organizations
@@ -56,6 +57,12 @@
 - [crackle](https://github.com/tuxecure/crackle)
 - [zip it](https://github.com/tuxecure/zip-it)
 - [gpgman](https://github.com/Fuseteam/gpgman)
+
+### Facebook Pages
+- [Fuse Tech News](https://facebook.com/fuseteamTN)
+- [Sekai Jumper](https://facebook.com/fuseteamSJ)
+- [Fuseteam's Rants](https://www.facebook.com/Xiaofuse/)
+- [Tuxecure](https://www.facebook.com/tuxecure/)
 
 ### 2017 Projects
 - [Ronini](http://fuseteam.tk)

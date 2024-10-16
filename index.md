@@ -6,7 +6,7 @@
 - [SourceForge Profile](https://sourceforge.net/u/fuseteam/profile)
 - [Stack Exchange Network Profile](https://stackexchange.com/users/6375969/fuseteam)
 - [Bitbucket Profile](https://bitbucket.org/xiaofuse)
-- [Giphy Channel](https://giphy.com/channel/tobiyokuujikai)
+- [Giphy Channel](https://giphy.com/channel/xiaofuse)
 - [Launchpad Page](https://launchpad.net/~fuseteam)
 - [Quora Profile](https://www.quora.com/profile/Rahammetoela-Toekiman)
 - [Twitter Profile](https://twitter.com/xiaofuse)

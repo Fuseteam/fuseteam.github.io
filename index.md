@@ -10,6 +10,7 @@
 - [Launchpad Page](https://launchpad.net/~fuseteam)
 - [Quora Profile](https://www.quora.com/profile/Rahammetoela-Toekiman)
 - [NetGate Forum](https://forum.netgate.com/user/fuseteam)
+- [Savapage Forum](https://community.savapage.org/u/fuseteam)
 - [Imgur Profile](https://imgur.com/user/fuseteam)
 - [Twitter Profile](https://twitter.com/xiaofuse)
 - [Tuxecure Twitter Profile](https://twitter.com/tuxecure)

@@ -11,6 +11,7 @@
 - [Quora Profile](https://www.quora.com/profile/Rahammetoela-Toekiman)
 - [NetGate Forum](https://forum.netgate.com/user/fuseteam)
 - [Savapage Forum](https://community.savapage.org/u/fuseteam)
+- [Threads](https://www.threads.net/@xiaofuse)
 - [Imgur Profile](https://imgur.com/user/fuseteam)
 - [Twitter Profile](https://twitter.com/xiaofuse)
 - [Tuxecure Twitter Profile](https://twitter.com/tuxecure)
@@ -62,7 +63,7 @@
 
 ### Facebook Pages
 - [Fuse Tech News](https://facebook.com/fuseteamTN)
-- [Sekai Jumper](https://facebook.com/fuseteamSJ)
+- [Sekai Jumper](https://facebook.com/feishikong)
 - [Fuseteam's Rants](https://www.facebook.com/Xiaofuse/)
 - [Tuxecure](https://www.facebook.com/tuxecure/)
 

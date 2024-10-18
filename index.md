@@ -37,7 +37,7 @@
 - [Disqus Profile](https://disqus.com/by/fuseteam/)
 - [WowApp Profile](https://www.wowapp.com/w/fuseteam/Tobiyo-Kuujikai)
 - [Telegram](https://t.me/fuseteam)
-- [@fuseteam:matrix.org](matrix.org)
+- [@fuseteam:matrix.org](https://matrix.to/#/@fuseteam:matrix.org)
 
 ### Github Organizations
 - [Donghua Network Github Organisation](https://github.com/donghua-network)

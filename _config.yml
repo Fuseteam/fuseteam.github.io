@@ -4,3 +4,4 @@ remote_theme: feishikong/meet-the-team
 markdown: kramdown
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-seo-tag # add this line to the plugins list if you already have one

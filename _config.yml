@@ -1,4 +1,7 @@
 title: Rahammetoela Toekiman also known as Tobiyo “Fuseteam” Kuujikai, xiaofuse, feishikong, Merkhad Luigton
+#Jekyll configuration
+livereload: true
+host: 0.0.0.0
 #theme: jekyll-theme-cayman
 remote_theme: feishikong/meet-the-team
 markdown: kramdown

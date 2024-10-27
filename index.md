@@ -1,12 +1,20 @@
 ---
 layout: default
 title: Social Media
+
+social:
+  - url: https://sourceforge.net/u/fuseteam/profile
+    name: SourceForge @fuseteam
+	pfp: assets/images/sourceforge.jpg
+  - url: https://gitlab.com/xiaofuse
+    name: Gitlab @xiaofuse
+    pfp: assets/images/gitlab.png
+  - url: https://github.com/fuseteam
+    name: Github @fuseteam
+    pfp: assets/images/github.png
 ---
 
 - [Public Facebook Profile](https://facebook.com/fuseteam)
-- [Github Profile](https://github.com/Fuseteam)
-- [Gitlab Profile](https://gitlab.com/xiaofuse)
-- [SourceForge Profile](https://sourceforge.net/u/fuseteam/profile)
 - [Stack Exchange Network Profile](https://stackexchange.com/users/6375969/fuseteam)
 - [Bitbucket Profile](https://bitbucket.org/xiaofuse)
 - [Giphy Channel](https://giphy.com/channel/xiaofuse)

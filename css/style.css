@@ -427,7 +427,7 @@ a:focus {
   border-radius: 0%;
 }
 .slider_section .carousel-indicators li span {
-  transition: 5s linear
+  transition: width 5s linear
   width: 0%;
 }
 .slider_section .carousel-indicators li.active span {

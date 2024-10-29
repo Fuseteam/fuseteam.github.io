@@ -3,7 +3,7 @@ title: Rahammetoela Toekiman also known as Tobiyo “Fuseteam” Kuujikai, xiaof
 livereload: true
 host: 0.0.0.0
 #theme: jekyll-theme-cayman
-remote_theme: feishikong/meet-the-team
+remote_theme: feishikong/meet-the-theme
 markdown: kramdown
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

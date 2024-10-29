@@ -1,8 +1,8 @@
 ---
 layout: default
+title: Social Media
 ---
 
-## Social Media
 - [Public Facebook Profile](https://facebook.com/fuseteam)
 - [Github Profile](https://github.com/Fuseteam)
 - [Gitlab Profile](https://gitlab.com/xiaofuse)

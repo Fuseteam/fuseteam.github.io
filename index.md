@@ -173,5 +173,5 @@ social:
 - [Tuxecure](https://www.facebook.com/tuxecure/)
 
 ### 2017 Projects
-- [Ronini](http://fuseteam.tk)
+- [Ronini](https://fusefingerbinary.wordpress.com/)
 - [mappy](https://github.com/Fuseteam/mappy)

@@ -111,6 +111,9 @@ social:
   - url: https://www.threads.net/@xiaofuse
     name: Threads @xiaofuse
     pfp: assets/images/threads.png
+  - url: https://gitlab.gnome.org/Fuseteam
+    name: Gnome Gitlab @fuseteam
+    pfp: assets/images/gnome.png
   - url: https://hub.docker.com/u/fuseteam
     name: Dockerhub @fuseteam
     pfp: assets/images/gnome.png

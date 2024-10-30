@@ -111,6 +111,9 @@ social:
   - url: https://www.threads.net/@xiaofuse
     name: Threads @xiaofuse
     pfp: assets/images/threads.png
+  - url: https://hub.docker.com/u/fuseteam
+    name: Dockerhub @fuseteam
+    pfp: assets/images/gnome.png
   - url: https://www.openstreetmap.org/user/Fuseteam
     name: OpenStreetMaps @fuseteam
     pfp: assets/images/osm.png
@@ -123,9 +126,6 @@ social:
   - url: https://forum.snapcraft.io/u/fuseteam
     name: Snapcraft Forums @fuseteam
     pfp: assets/images/snapcraft.png
-  - url: https://gitlab.gnome.org/Fuseteam
-    name: Gnome Gitlab @fuseteam
-    pfp: assets/images/gnome.png
   - url: https://community.savapage.org/u/fuseteam
     name: Savapage Forums @fuseteam
     pfp: assets/images/savapage.png

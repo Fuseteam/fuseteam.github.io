@@ -161,7 +161,8 @@ social:
 - [Ko-Fi Page](https://ko-fi.com/fuseteam)
 
 ### Recent Projects
-- [sshmount](https://github.com/Fuseteam/sshmount)
+- [snapclean](https://fuseteam.github.io/snapclean/)
+- [sshmount](https://fuseteam.github.io/sshmount/)
 - [crackle](https://github.com/tuxecure/crackle)
 - [zip it](https://github.com/tuxecure/zip-it)
 - [gpgman](https://github.com/Fuseteam/gpgman)

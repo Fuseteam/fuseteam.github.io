@@ -111,6 +111,9 @@ social:
   - url: https://www.threads.net/@xiaofuse
     name: Threads @xiaofuse
     pfp: assets/images/threads.png
+  - url: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1327251#profile
+    name: Microsoft Tech Community @fuseteam
+    pfp: assets/images/microsoft.png
   - url: https://gitlab.gnome.org/Fuseteam
     name: Gnome Gitlab @fuseteam
     pfp: assets/images/gnome.png

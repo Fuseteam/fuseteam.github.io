@@ -137,17 +137,19 @@ social:
 ### Github Organizations
 - [Donghua Network](https://github.com/donghua-network)
 - [Bayi Subs](https://github.com/BayiSubs)
-  - [Bayi Subs Club](http://myanimelist.net/clubs.php?cid=70149)
-  - [Bayi Subs Chat Discord Server](https://discord.gg/PBCCyVn)
-  - [Bayi Subs neocities site](http://bayi-subs.neocities.org)
-  - [bayi test site](http://70149.neocities.org)
+  - [MyAnimeList Club](http://myanimelist.net/clubs.php?cid=70149)
+  - [Discord Server](https://discord.gg/PBCCyVn)
+  - [neocities site](http://bayi-subs.neocities.org)
+  - [test site](http://70149.neocities.org)
 - [Tuxecure](https://github.com/tuxecure)
-  - [Tuxecure Twitter Profile](https://twitter.com/tuxecure)
-  - [Tuxecure Instagram Profile](https://instagram.com/tuxecure)
-  - [Tuxecure Youtube Channel](https://www.youtube.com/@tuxecure)
+  - [Twitter Profile](https://twitter.com/tuxecure)
+  - [Instagram Profile](https://instagram.com/tuxecure)
+  - [Youtube Channel](https://www.youtube.com/@tuxecure)
+  - [Facebook Page](https://www.facebook.com/tuxecure/)
 - [Feishikong](https://github.com/feishikong)
-  -  [Feishikong Twitter Profile](https://twitter.com/feishikong)
-  -  [Feishikong Youtube Channel](https://www.youtube.com/@feishikong)
+  -  [Twitter Profile](https://twitter.com/feishikong)
+  -  [Youtube Channel](https://www.youtube.com/@feishikong)
+  -  [Facebook Page](https://facebook.com/feishikong)
 - [Dwnity](https://github.com/dwnity)
 - [Online Payments Suriname](https://github.com/online-payments-suriname)
 
@@ -167,11 +169,9 @@ social:
 - [zip it](https://github.com/tuxecure/zip-it)
 - [gpgman](https://github.com/Fuseteam/gpgman)
 
-### Facebook Pages
+### Other Facebook Pages
 - [Fuse Tech News](https://facebook.com/fuseteamTN)
-- [Sekai Jumper](https://facebook.com/feishikong)
 - [Fuseteam's Rants](https://www.facebook.com/Xiaofuse/)
-- [Tuxecure](https://www.facebook.com/tuxecure/)
 
 ### 2017 Projects
 - [Ronini](https://fusefingerbinary.wordpress.com/)

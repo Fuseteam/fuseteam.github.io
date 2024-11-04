@@ -135,6 +135,9 @@ social:
   - url: https://community.savapage.org/u/fuseteam
     name: Savapage Forums @fuseteam
     pfp: assets/images/savapage.png
+  - url: https://forum.fairphone.com/u/fuseteam
+    name: Fairphone Forums @fuseteam
+    pfp: assets/images/savapage.png
 ---
 
 ### Github Organizations

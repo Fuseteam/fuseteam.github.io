@@ -169,11 +169,12 @@ social:
 - [Ko-Fi Page](https://ko-fi.com/fuseteam)
 
 ### Recent Projects
+- [tethering-nm](https://fuseteam.github.io/tethering-nm/)
 - [snapclean](https://fuseteam.github.io/snapclean/)
 - [sshmount](https://fuseteam.github.io/sshmount/)
 - [crackle](https://github.com/tuxecure/crackle)
 - [zip it](https://github.com/tuxecure/zip-it)
-- [gpgman](https://github.com/Fuseteam/gpgman)
+- [gpgman](https://fuseteam.github.io/gpgman)
 
 ### Other Facebook Pages
 - [Fuse Tech News](https://facebook.com/fuseteamTN)

@@ -120,6 +120,9 @@ social:
   - url: https://hub.docker.com/u/fuseteam
     name: Dockerhub @fuseteam
     pfp: assets/images/gnome.png
+  - url: https://discourse.mozilla.org/u/fuseteam
+    name: Mozilla Discourse @fuseteam
+    pfp: assets/images/bugzilla.png
   - url: https://www.openstreetmap.org/user/Fuseteam
     name: OpenStreetMaps @fuseteam
     pfp: assets/images/osm.png

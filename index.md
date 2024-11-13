@@ -123,6 +123,9 @@ social:
   - url: https://discourse.mozilla.org/u/fuseteam
     name: Mozilla Discourse @fuseteam
     pfp: assets/images/bugzilla.png
+  - url: https://support.mozilla.org/en-US/user/fuseteam/
+    name: Mozilla Support @fuseteam
+    pfp: assets/images/mozilla.png
   - url: https://www.openstreetmap.org/user/Fuseteam
     name: OpenStreetMaps @fuseteam
     pfp: assets/images/osm.png

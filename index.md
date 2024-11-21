@@ -20,7 +20,7 @@ social:
     pfp: assets/images/matrix.png
   - url: https://t.me/fuseteam
     name: Telegram @fuseteam
-    pfp: assets/images/telegram.png
+    pfp: assets/images/telegram.svg
   - url: https://youtube.com/fuseteam
     name: YouTube @fuseteam
     pfp: assets/images/youtube.png

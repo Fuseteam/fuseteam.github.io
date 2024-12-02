@@ -82,67 +82,70 @@ social:
     name: TikTok @feishikong
     pfp: assets/images/tiktok.png
   - url: https://www.twitch.tv/fuseteam
-    name: Twitch @fuseteam
+    name: @fuseteam@Twitch
     pfp: assets/images/twitch.png
   - url: https://www.wowapp.com/w/fuseteam/Tobiyo-Kuujikai
-    name: WowApp @fuseteam
+    name: @fuseteam@WowApp
     pfp: assets/images/wowapp.jpg
   - url: https://imgur.com/user/fuseteam
-    name: Imgur @fuseteam
+    name: @fuseteam@Imgur 
     pfp: assets/images/imgur.png
   - url: https://giphy.com/channel/xiaofuse
-    name: Giphy @xiaofuse
+    name: @xiaofuse@Giphy
     pfp: assets/images/giphy.png
   - url: https://www.quora.com/profile/Rahammetoela-Toekiman/
     name: Quora
     pfp: assets/images/quora.jpeg
   - url: https://forum.netgate.com/user/fuseteam
-    name: Netgate forums @fuseteam
+    name: @fuseteam@Netgate forums
     pfp: assets/images/netgate.png
   - url: https://medium.com/@fuseteam
-    name: Medium @fuseteam
+    name: @fuseteam@Medium
     pfp: assets/images/medium.png
   - url: https://www.pinterest.com/fuseteam/
-    name: Pinterest @fuseteam
+    name: @fuseteam@Pinterest
     pfp: assets/images/pinterest.png
   - url: https://codepen.io/fuseteam
-    name: Codepen @fuseteam
+    name: @fuseteam@Codepen
     pfp: assets/images/codepen.png
   - url: https://www.threads.net/@xiaofuse
-    name: Threads @xiaofuse
+    name: @xiaofuse@Threads
     pfp: assets/images/threads.png
   - url: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1327251#profile
-    name: Microsoft Tech Community @fuseteam
+    name: @fuseteam@Microsoft Tech Community
     pfp: assets/images/microsoft.png
+  - url: https://community.spotify.com/t5/user/viewprofilepage/user-id/26608931
+    name: @fuseteam@Spotify Community
+    pfp assets/images/spotify-community.jpeg
   - url: https://gitlab.gnome.org/Fuseteam
-    name: Gnome Gitlab @fuseteam
+    name: @fuseteam@Gnome Gitlab
     pfp: assets/images/gnome.png
   - url: https://hub.docker.com/u/fuseteam
-    name: Dockerhub @fuseteam
+    name: @fuseteam@Dockerhub
     pfp: assets/images/gnome.png
   - url: https://discourse.mozilla.org/u/fuseteam
-    name: Mozilla Discourse @fuseteam
+    name: @fuseteam@Mozilla Discourse
     pfp: assets/images/bugzilla.png
   - url: https://support.mozilla.org/en-US/user/fuseteam/
-    name: Mozilla Support @fuseteam
+    name: @fuseteam@Mozilla Support
     pfp: assets/images/mozilla.png
   - url: https://www.openstreetmap.org/user/Fuseteam
-    name: OpenStreetMaps @fuseteam
+    name: @fuseteam@OpenStreetMaps
     pfp: assets/images/osm.png
   - url: https://help.nextcloud.com/u/fuseteam
-    name: Nextcloud Forums @fuseteam
+    name: @fuseteam@Nextcloud Forums
     pfp: assets/images/nextcloud.png
   - url: https://discourse.ubuntu.com/u/fuseteam
-    name: Ubuntu Discourse @fuseteam
+    name: @fuseteam@Ubuntu Discourse
     pfp: assets/images/ubuntu.png
   - url: https://forum.snapcraft.io/u/fuseteam
-    name: Snapcraft Forums @fuseteam
+    name: @fuseteam@Snapcraft Forums
     pfp: assets/images/snapcraft.png
   - url: https://community.savapage.org/u/fuseteam
-    name: Savapage Forums @fuseteam
+    name: @fuseteam@Savapage Forums
     pfp: assets/images/savapage.png
   - url: https://forum.fairphone.com/u/fuseteam
-    name: Fairphone Forums @fuseteam
+    name: @fuseteam@Fairphone Forums
     pfp: assets/images/savapage.png
 ---
 

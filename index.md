@@ -116,7 +116,7 @@ social:
     pfp: assets/images/microsoft.png
   - url: https://community.spotify.com/t5/user/viewprofilepage/user-id/26608931
     name: Spotify Community @fuseteam
-    pfp assets/images/spotify-community.jpeg
+    pfp: assets/images/spotify-community.jpeg
   - url: https://gitlab.gnome.org/Fuseteam
     name: Gnome Gitlab @fuseteam
     pfp: assets/images/gnome.png

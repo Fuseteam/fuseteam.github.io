@@ -4,82 +4,82 @@ title: Social Media
 
 social:
   - url: https://sourceforge.net/u/fuseteam/profile
-    name: SourceForge @fuseteam
+    name: @fuseteam@SourceForge
     pfp: assets/images/sourceforge.jpg
   - url: https://gitlab.com/xiaofuse
-    name: Gitlab @xiaofuse
+    name: @xiaofuse@Gitlab
     pfp: assets/images/gitlab.png
   - url: https://github.com/fuseteam
-    name: Github @fuseteam
+    name: @fuseteam@Github
     pfp: assets/images/github.png
   - url: https://forums.ubports.com/user/fuseteam
-    name: UBports Forum @fuseteam
+    name: @fuseteam@UBports Forum
     pfp: assets/images/ubports.png
   - url: https://matrix.to/#/@fuseteam:matrix.org
-    name: Matrix @fuseteam
+    name: @fuseteam@Matrix
     pfp: assets/images/matrix.png
   - url: https://t.me/fuseteam
-    name: Telegram @fuseteam
+    name: @fuseteam@Telegram
     pfp: assets/images/telegram.svg
   - url: https://youtube.com/fuseteam
-    name: YouTube @fuseteam
+    name: @fuseteam@YouTube
     pfp: assets/images/youtube.png
   - url: https://twitter.com/xiaofuse
-    name: Twitter @xiaofuse
+    name: @xiaofuse@Twitter
     pfp: assets/images/twitter.png
   - url: https://disqus.com/by/fuseteam/
-    name: Disqus @fuseteam
+    name: @fuseteam@Disqus
     pfp: assets/images/disqus.jpg
   - url: https://instagram.com/xiaofuse
-    name: Instagram @xiaofuse
+    name: @xiaofuse@Instagram
     pfp: assets/images/instagram.jpg
   - url: https://anilist.co/user/Fuseteam
-    name: AniList @fuseteam
+    name: @fuseteam@AniList
     pfp: assets/images/anilist.png
   - url: https://myanimelist.net/profile/Fuseteam
-    name: MyAnimeList @fuseteam
+    name: @fuseteam@MyAnimeList
     pfp: assets/images/myanimelist.webp
   - url: https://launchpad.net/~fuseteam
-    name: Launchpad @fuseteam
+    name: @fuseteam@Launchpad
     pfp: assets/images/launchpad.png
   - url: https://bugzilla.mozilla.org/user_profile?user_id=668231
-    name: Bugzilla @xiaofuse
+    name: @xiaofuse@Bugzilla
     pfp: assets/images/bugzilla.png
   - url: https://stackexchange.com/users/6375969/fuseteam
-    name: StackExchange @fuseteam
+    name: @fuseteam@StackExchange
     pfp: assets/images/stackexchange.jpeg
   - url: https://steamcommunity.com/id/Fuseteam
-    name: Steam @fuseteam
+    name: @fuseteam@Steam
     pfp: assets/images/steam.jpg
   - url: https://gravatar.com/xiaofuse
-    name: Gravatar @fuseteam
+    name: @fuseteam@Gravatar
     pfp: assets/images/gravatar.png
   - url: https://osu.ppy.sh/users/3712168
-    name: Osu @fuseteam
+    name: @fuseteam@Osu
     pfp: assets/images/osu.webp
   - url: https://discord.com/users/226538916000301067
-    name: Discord @fuseteam
+    name: @fuseteam@Discord
     pfp: assets/images/discord.png
   - url: https://www.reddit.com/user/fuseteam/
-    name: Reddit @fuseteam
+    name: @fuseteam@Reddit
     pfp: assets/images/reddit.png
   - url: https://connect.mozilla.org/t5/user/viewprofilepage/user-id/2986
-    name: Mozilla Connect @fuseteam
+    name: @fuseteam@Mozilla Connect
     pfp: assets/images/mozilla.png
   - url: https://open.spotify.com/user/khd43uvwvpbphqe1vwerz14c2
-    name: Spotify @fuseteam
+    name: @fuseteam@Spotify
     pfp: assets/images/spotify.png
   - url: https://facebook.com/fuseteam
-    name: Public Facebook @fuseteam
+    name: @fuseteam@Public Facebook
     pfp: assets/images/facebook.jpeg
   - url: https://soundcloud.com/fuseteam
-    name: SoundCloud @fuseteam
+    name: @fuseteam@SoundCloud
     pfp: assets/images/soundcloud.png
   - url: https://odysee.com/@fuseteam:6
-    name: Odysee @fuseteam
+    name: @fuseteam@Odysee
     pfp: assets/images/odysee.jpg
   - url: https://tiktok.com/@feishikong
-    name: TikTok @feishikong
+    name: @feishikong@TikTok
     pfp: assets/images/tiktok.png
   - url: https://www.twitch.tv/fuseteam
     name: @fuseteam@Twitch
